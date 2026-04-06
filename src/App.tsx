@@ -142,7 +142,7 @@ const Projects = () => {
     },
     {
       title: "NexCode",
-      url: "https://nexcode.codemagicx.com",
+      url: "https://nexcode.codemagicx.in",
       desc: "A specialized Coding Studio environment designed for seamless development and practice. Part of the CodeMagicX ecosystem, providing an integrated workspace for developers.",
       tags: ["IDE", "Web Tools", "Development"]
     }
