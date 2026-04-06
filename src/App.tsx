@@ -263,7 +263,7 @@ const Experience = () => {
     {
       role: "Technical Content Creator",
       company: "Self-Employed",
-      period: "2024 - 2026",
+      period: "2023 - 2026",
       desc: "Creating high-quality technical content and educational resources for the developer community."
     },
     {
@@ -275,7 +275,7 @@ const Experience = () => {
     {
       role: "Web Developer",
       company: "Nacency Infotech",
-      period: "2023 - 2024",
+      period: "2022 - 2024",
       desc: "Spearheaded PHP-based web development projects, building robust and dynamic web applications."
     }
   ];
