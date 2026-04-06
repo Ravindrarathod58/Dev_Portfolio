@@ -1,20 +1,40 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Ravindra Rathod Portfolio
 
-# Run and deploy your AI Studio app
+A modern, high-impact portfolio for a Full Stack Web Development Trainer and Developer.
 
-This contains everything you need to run your app locally.
+## Features
 
-View your app in AI Studio: https://ai.studio/apps/ca491190-dd57-48c8-85ce-382787a2ccaa
+- **Modern UI**: Built with React 19, Tailwind CSS, and Motion.
+- **Responsive Design**: Fully optimized for all screen sizes.
+- **Project Showcase**: Highlights key projects like CodeMagicX and NexCode.
+- **Experience Timeline**: Detailed career path from Web Developer to Full Stack Trainer.
+- **Skills Matrix**: Focused on React JS, JavaScript, Node.js, Java, J2EE, and MySQL.
 
-## Run Locally
+## Tech Stack
 
-**Prerequisites:**  Node.js
+- **Frontend**: React, Tailwind CSS, Motion (Framer Motion)
+- **Icons**: Lucide React
+- **Fonts**: Space Grotesk (Headings), Inter (Body)
+- **Build Tool**: Vite
 
+## Getting Started
 
 1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+   ```bash
+   npm install
+   ```
+
+2. Start the development server:
+   ```bash
+   npm run dev
+   ```
+
+3. Build for production:
+   ```bash
+   npm run build
+   ```
+
+## Contact
+
+- **LinkedIn**: [Ravindra Rathod](https://www.linkedin.com/in/ravindra-rathod-185096261)
+- **Email**: ravindra@example.com
